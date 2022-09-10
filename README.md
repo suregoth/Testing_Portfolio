@@ -27,3 +27,5 @@ I also gained interest in software testing. At my current job I‘m responsible 
 * The Complete 2022 Software Testing Bootcamp (Udemy) (in progress)
 
 ## My projects
+* Test cases: 
+  * [Pinterest page](https://docs.google.com/spreadsheets/d/191VFyhiRNKaazavZNBzMBChRvYJwmSQ1JvsSij94JbI/edit?usp=sharing) 
