@@ -1,6 +1,6 @@
 # Portfolio
 
-# About me
+## About me
 
 # Skills
 * Python
