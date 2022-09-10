@@ -1,5 +1,4 @@
-# portfolio
-My Testing Portfolio
+# Portfolio
 
 # About me
 
