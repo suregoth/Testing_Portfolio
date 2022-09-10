@@ -21,8 +21,8 @@ I also gained interest in software testing. At my current job I‘m responsible 
 * Google Analytics Academy - Introduction to Data Studio
 
 ## Courses
-* The Complete SQL Bootcamp 2022 (udemy)
+* The Complete SQL Bootcamp 2022 (Udemy)
 * Python Essentials - Python Institute
-* The Complete 2022 Software Testing Bootcamp (udemy) (in progress)
+* The Complete 2022 Software Testing Bootcamp (Udemy) (in progress)
 
 ## My projects
