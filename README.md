@@ -9,6 +9,7 @@ I also gained interest in software testing. At my current job I‘m responsible 
 * SQL
 * Linux
 * Git
+* HTML
 * Software testing
 * Creating test cases
 * Bug reporting
